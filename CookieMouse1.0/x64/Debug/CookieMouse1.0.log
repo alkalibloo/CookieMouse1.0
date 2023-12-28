@@ -1,0 +1,32 @@
+﻿  SoundPool.cpp
+  main.cpp
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         with
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:             T=unsigned int
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         ]
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         and
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:             T=float
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,73): warning C4244:         ]
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         with
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:             T=unsigned int
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         ]
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         and
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:             T=float
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(20,39): warning C4244:         ]
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,76): warning C4244:         with
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,76): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,76): warning C4244:             T=unsigned int
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,76): warning C4244:         ]
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,46): warning C4244:         with
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,46): warning C4244:         [
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,46): warning C4244:             T=unsigned int
+C:\Users\alkal\source\repos\CookieMouse1.0\CookieMouse1.0\main.cpp(48,46): warning C4244:         ]
+  Generating Code...
+  CookieMouse1.0.vcxproj -> C:\Users\alkal\source\repos\CookieMouse1.0\x64\Debug\CookieMouse1.0.exe
